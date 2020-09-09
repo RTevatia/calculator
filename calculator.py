@@ -1,14 +1,14 @@
-def division(x, y):
+def divide(x, y):
     pass
 
 
-def multiplication(x, y):
+def multiply(x, y):
     pass
 
 
-def addition(x, y):
+def add(x, y):
     pass
 
 
-def subtraction(x, y):
+def subtract(x, y):
     pass
