@@ -2,10 +2,10 @@ from cal_fun import CalFunc
 
 print("Calucalor for two numbers. Press 'q' to quit")
 while True:
-    num_1 = input("Enter first number: ")
+    num_1 = input("Enter first number (or 'q' to quit): ")
     if num_1 == "q":
         break
-    num_2 = input("Enter second number: ")
+    num_2 = input("Enter second number (or 'q' to quit): ")
     if num_2 == "q":
         break
 
